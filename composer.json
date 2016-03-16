@@ -1,0 +1,22 @@
+{
+    "name": "japseyz/has-one-through",
+    "description": "Adds Has One Through Relationship",
+    "keywords": [
+		"laravel",
+		"eloquent",
+		"relationship",
+		"has one through"
+	],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JapSeyz",
+            "email": "japseyz@japseyz.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JapSeyz\\HasOneThrough\\": "src/"
+        }
+    }
+}
